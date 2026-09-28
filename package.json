@@ -1,0 +1,10 @@
+{
+  "name": "clinica-veterinaria",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Exercício de Fixação 07 - Relacionamentos entre Classes",
+  "main": "usaClinica.js",
+  "scripts": {
+      "start": "node usaClinica.js"
+  }
+}
